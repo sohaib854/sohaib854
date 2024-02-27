@@ -36,6 +36,7 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="MongoDb"  alt="MongoDb" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJs"  alt="NestJs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="Prisma"  alt="Prisma" width="40" height="40"/>&nbsp;
 </div>
 
 ---
