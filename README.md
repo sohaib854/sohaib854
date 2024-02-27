@@ -2,13 +2,13 @@
 ---
 ### :man_technologist: About Me :
 
-I am a MEAN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications in Techlabs.
+- :telescope: I’m working as a Backend Developer and contributing to the backend team for building web applications in Techlabs.
 
-- 🌱 I’m currently learning Angular 
+- 🌱 I’m currently learning NestJS 
 
-- 🤔 I’m looking for help with Redux 
+- 🤔 I’m looking for help with AWS 
 
 - :seedling: Exploring JavaScript Ecosystem.
 
